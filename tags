@@ -4,231 +4,244 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-BUFSIZE	polish/getch.c	4;"	d	file:
-BUFSIZE	polish4-11/getch.c	4;"	d	file:
-BUFSIZE	polish_calc/getch.c	3;"	d	file:
-IN	ex1-13.c	5;"	d	file:
-LONGLINE	ex1-17.c	4;"	d	file:
-MAXCHAR	ex1-14.c	5;"	d	file:
-MAXCOL	ex1-22.c	6;"	d	file:
-MAXHIST	ex1-13.c	3;"	d	file:
-MAXHIST	ex1-14.c	4;"	d	file:
+BUFSIZE	chapter 4/polish/getch.c	4;"	d	file:
+BUFSIZE	chapter 4/polish4-11/getch.c	4;"	d	file:
+BUFSIZE	chapter 4/polish_calc/getch.c	3;"	d	file:
+IN	chapter 1/ex1-13.c	5;"	d	file:
+LONGLINE	chapter 1/ex1-17.c	4;"	d	file:
+MAXBUFSIZE	chapter 5/ex5-1.c	4;"	d	file:
+MAXBUFSIZE	chapter 5/ex5-2.c	4;"	d	file:
+MAXCHAR	chapter 1/ex1-14.c	5;"	d	file:
+MAXCOL	chapter 1/ex1-22.c	6;"	d	file:
+MAXHIST	chapter 1/ex1-13.c	3;"	d	file:
+MAXHIST	chapter 1/ex1-14.c	4;"	d	file:
 MAXLENGTH	line-cp.c	3;"	d	file:
-MAXLINE	ex1-17.c	3;"	d	file:
-MAXLINE	ex1-18.c	3;"	d	file:
-MAXLINE	ex1-19.c	3;"	d	file:
-MAXLINE	ex4-1.c	5;"	d	file:
+MAXLINE	chapter 1/ex1-17.c	3;"	d	file:
+MAXLINE	chapter 1/ex1-18.c	3;"	d	file:
+MAXLINE	chapter 1/ex1-19.c	3;"	d	file:
+MAXLINE	chapter 4/ex4-1.c	5;"	d	file:
+MAXLINE	chapter 4/polish4-10/getop.c	6;"	d	file:
 MAXLINE	grep4C.c	4;"	d	file:
 MAXLINE	line-cp-spec.c	3;"	d	file:
-MAXLINE	polish4-10/getop.c	6;"	d	file:
+MAXOP	chapter 4/polish/calc.h	2;"	d
+MAXOP	chapter 4/polish4-10/calc.h	2;"	d
+MAXOP	chapter 4/polish4-11/calc.h	2;"	d
+MAXOP	chapter 4/polish_calc/calc.h	2;"	d
 MAXOP	main.c	4;"	d	file:
-MAXOP	polish/calc.h	2;"	d
-MAXOP	polish4-10/calc.h	2;"	d
-MAXOP	polish4-11/calc.h	2;"	d
-MAXOP	polish_calc/calc.h	2;"	d
-MAXVAL	polish/stack.c	4;"	d	file:
-MAXVAL	polish4-10/stack.c	4;"	d	file:
-MAXVAL	polish4-11/stack.c	4;"	d	file:
-MAXVAL	polish_calc/stack.c	4;"	d	file:
+MAXVAL	chapter 4/polish/stack.c	4;"	d	file:
+MAXVAL	chapter 4/polish4-10/stack.c	4;"	d	file:
+MAXVAL	chapter 4/polish4-11/stack.c	4;"	d	file:
+MAXVAL	chapter 4/polish_calc/stack.c	4;"	d	file:
 MAXVAL	push_pop.c	1;"	d	file:
-MAXWORD	ex1-13.c	4;"	d	file:
-MULTI	ex1-23.c	6;"	d	file:
-MULTI	ex1-24.c	6;"	d	file:
-NAME	polish/calc.h	4;"	d
-NAME	polish4-10/calc.h	4;"	d
-NAME	polish4-11/calc.h	4;"	d
-NO	ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	e	enum:loop	file:
-NO	ex2-3.c	/^enum flag { NO, YES };$/;"	e	enum:flag	file:
+MAXWORD	chapter 1/ex1-13.c	4;"	d	file:
+MULTI	chapter 1/ex1-23.c	6;"	d	file:
+MULTI	chapter 1/ex1-24.c	6;"	d	file:
+NAME	chapter 4/polish/calc.h	4;"	d
+NAME	chapter 4/polish4-10/calc.h	4;"	d
+NAME	chapter 4/polish4-11/calc.h	4;"	d
+NO	chapter 2/ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	e	enum:loop	file:
+NO	chapter 2/ex2-3.c	/^enum flag { NO, YES };$/;"	e	enum:flag	file:
+NUMBER	chapter 4/polish/calc.h	1;"	d
+NUMBER	chapter 4/polish4-10/calc.h	1;"	d
+NUMBER	chapter 4/polish4-11/calc.h	1;"	d
+NUMBER	chapter 4/polish_calc/calc.h	1;"	d
 NUMBER	main.c	5;"	d	file:
-NUMBER	polish/calc.h	1;"	d
-NUMBER	polish4-10/calc.h	1;"	d
-NUMBER	polish4-11/calc.h	1;"	d
-NUMBER	polish_calc/calc.h	1;"	d
-OUT	ex1-13.c	6;"	d	file:
-REPEAT	polish/calc.h	3;"	d
-REPEAT	polish4-10/calc.h	3;"	d
-REPEAT	polish4-11/calc.h	3;"	d
-SINGLE	ex1-23.c	7;"	d	file:
-SINGLE	ex1-24.c	7;"	d	file:
-TABINC	ex1-20.c	7;"	d	file:
-TABINC	ex1-21.c	7;"	d	file:
-TABINC	ex1-22.c	7;"	d	file:
-YES	ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	e	enum:loop	file:
-YES	ex2-3.c	/^enum flag { NO, YES };$/;"	e	enum:flag	file:
-abs	3-5.c	6;"	d	file:
-abs	3-6.c	6;"	d	file:
-abs	ex3-4.c	7;"	d	file:
-any	ex2-5.c	/^int any(char s1[], char s2[]) {$/;"	f
+OUT	chapter 1/ex1-13.c	6;"	d	file:
+REPEAT	chapter 4/polish/calc.h	3;"	d
+REPEAT	chapter 4/polish4-10/calc.h	3;"	d
+REPEAT	chapter 4/polish4-11/calc.h	3;"	d
+SINGLE	chapter 1/ex1-23.c	7;"	d	file:
+SINGLE	chapter 1/ex1-24.c	7;"	d	file:
+TABINC	chapter 1/ex1-20.c	7;"	d	file:
+TABINC	chapter 1/ex1-21.c	7;"	d	file:
+TABINC	chapter 1/ex1-22.c	7;"	d	file:
+YES	chapter 2/ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	e	enum:loop	file:
+YES	chapter 2/ex2-3.c	/^enum flag { NO, YES };$/;"	e	enum:flag	file:
+abs	chapter 3/3-5.c	6;"	d	file:
+abs	chapter 3/3-6.c	6;"	d	file:
+abs	chapter 3/ex3-4.c	7;"	d	file:
+any	chapter 2/ex2-5.c	/^int any(char s1[], char s2[]) {$/;"	f
 atof	atof4.c	/^double atof(char s[]) {$/;"	f
 atof	atof4C.c	/^double atof(char s[]) {$/;"	f
-atof	ex4-2.c	/^double atof(char s[]) {$/;"	f
+atof	chapter 4/ex4-2.c	/^double atof(char s[]) {$/;"	f
 atoi	atof4C.c	/^int atoi(char s[]) {$/;"	f
 atoi2	atoi3.c	/^int atoi2(char s[]) {$/;"	f
-bitcount	ex2-9.c	/^int bitcount(unsigned x) {$/;"	f
-brace	ex1-24.c	/^int brace, brack, paren;$/;"	v
-brack	ex1-24.c	/^int brace, brack, paren;$/;"	v
-buf	polish/getch.c	/^int buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v
-buf	polish/getch4-8.c	/^int buf = 0;			\/\/ single character buffer$/;"	v
-buf	polish4-11/getch.c	/^static int buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v	file:
-buf	polish4-11/getch4-8.c	/^int buf = 0;			\/\/ single character buffer$/;"	v
-buf	polish_calc/getch.c	/^char buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v
-bufp	polish/getch.c	/^int bufp = 0;			\/\/ next free position in buf$/;"	v
-bufp	polish4-11/getch.c	/^static int bufp = 0;			\/\/ next free position in buf$/;"	v	file:
-bufp	polish_calc/getch.c	/^int bufp = 0;			\/\/ next free position in buf$/;"	v
-clear	polish/stack.c	/^void clear(void) {$/;"	f
-clear	polish4-10/stack.c	/^void clear(void) {$/;"	f
-clear	polish4-11/stack.c	/^void clear(void) {$/;"	f
+bitcount	chapter 2/ex2-9.c	/^int bitcount(unsigned x) {$/;"	f
+brace	chapter 1/ex1-24.c	/^int brace, brack, paren;$/;"	v
+brack	chapter 1/ex1-24.c	/^int brace, brack, paren;$/;"	v
+buf	chapter 4/polish/getch.c	/^int buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v
+buf	chapter 4/polish/getch4-8.c	/^int buf = 0;			\/\/ single character buffer$/;"	v
+buf	chapter 4/polish4-11/getch.c	/^static int buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v	file:
+buf	chapter 4/polish4-11/getch4-8.c	/^int buf = 0;			\/\/ single character buffer$/;"	v
+buf	chapter 4/polish_calc/getch.c	/^char buf[BUFSIZE];		\/\/ buffer for ungetch$/;"	v
+buf	chapter 5/ex5-2.c	/^int buf[MAXBUFSIZE]; 	\/\/ buffer or ungetch()$/;"	v
+buffer	chapter 5/ex5-1.c	/^int buffer[MAXBUFSIZE]; 	\/\/ buffer for ungetch$/;"	v
+bufp	chapter 4/polish/getch.c	/^int bufp = 0;			\/\/ next free position in buf$/;"	v
+bufp	chapter 4/polish4-11/getch.c	/^static int bufp = 0;			\/\/ next free position in buf$/;"	v	file:
+bufp	chapter 4/polish_calc/getch.c	/^int bufp = 0;			\/\/ next free position in buf$/;"	v
+bufp	chapter 5/ex5-1.c	/^int bufp; 			\/\/ buffer's vacant position'$/;"	v
+bufp	chapter 5/ex5-2.c	/^int bufp; 		\/\/ index of vacant slot of buffer$/;"	v
+clear	chapter 4/polish/stack.c	/^void clear(void) {$/;"	f
+clear	chapter 4/polish4-10/stack.c	/^void clear(void) {$/;"	f
+clear	chapter 4/polish4-11/stack.c	/^void clear(void) {$/;"	f
 copy	line-cp-spec.c	/^void copy(void) {$/;"	f
 copy	line-cp.c	/^void copy(char to[], char from[]) {$/;"	f
-echo_quote	ex1-23.c	/^void echo_quote(int c) {$/;"	f
-en_quote	ex1-24.c	/^void en_quote(int c) {$/;"	f
-escape	ex3-2.c	/^void escape(char s[], char t[]) {$/;"	f
-expand	ex3-3.c	/^void expand(char s1[], char s2[]) {$/;"	f
-exptab	ex1-22.c	/^int exptab(int pos) {$/;"	f
-fast_binarysearch	ex3-1.c	/^int fast_binarysearch(int x, int v[], int n) {$/;"	f
-filled	polish/getch4-8.c	/^int filled = 0;			\/\/ 1 for filled, 0 for free$/;"	v
-filled	polish4-11/getch4-8.c	/^int filled = 0;			\/\/ 1 for filled, 0 for free$/;"	v
-findblnk	ex1-22.c	/^int findblnk(int pos) {$/;"	f
-flag	ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	t	typeref:enum:loop	file:
-flag	ex2-3.c	/^enum flag { NO, YES };$/;"	g	file:
+echo_quote	chapter 1/ex1-23.c	/^void echo_quote(int c) {$/;"	f
+en_quote	chapter 1/ex1-24.c	/^void en_quote(int c) {$/;"	f
+escape	chapter 3/ex3-2.c	/^void escape(char s[], char t[]) {$/;"	f
+expand	chapter 3/ex3-3.c	/^void expand(char s1[], char s2[]) {$/;"	f
+exptab	chapter 1/ex1-22.c	/^int exptab(int pos) {$/;"	f
+fast_binarysearch	chapter 3/ex3-1.c	/^int fast_binarysearch(int x, int v[], int n) {$/;"	f
+filled	chapter 4/polish/getch4-8.c	/^int filled = 0;			\/\/ 1 for filled, 0 for free$/;"	v
+filled	chapter 4/polish4-11/getch4-8.c	/^int filled = 0;			\/\/ 1 for filled, 0 for free$/;"	v
+findblnk	chapter 1/ex1-22.c	/^int findblnk(int pos) {$/;"	f
+flag	chapter 2/ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	t	typeref:enum:loop	file:
+flag	chapter 2/ex2-3.c	/^enum flag { NO, YES };$/;"	g	file:
 getbits	getbits.c	/^int getbits(unsigned x, int p, int n) {$/;"	f
-getch	polish/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
-getch	polish/getch4-8.c	/^int getch(void) {$/;"	f
-getch	polish4-11/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
-getch	polish4-11/getch4-8.c	/^int getch(void) {$/;"	f
-getch	polish_calc/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
-getline1	ex1-17.c	/^int getline1(char s[], int lim) {$/;"	f
-getline1	ex1-18.c	/^int getline1(char s[], int lim) {$/;"	f
-getline1	ex1-19.c	/^int getline1(char s[], int lim) {$/;"	f
-getline1	ex2-2.c	/^int getline1(char s[], int lim) {$/;"	f
-getline1	ex4-1.c	/^int getline1(char s[], int lim) {$/;"	f
+getch	chapter 4/polish/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
+getch	chapter 4/polish/getch4-8.c	/^int getch(void) {$/;"	f
+getch	chapter 4/polish4-11/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
+getch	chapter 4/polish4-11/getch4-8.c	/^int getch(void) {$/;"	f
+getch	chapter 4/polish_calc/getch.c	/^int getch(void) { 		\/\/ get a (possibly pushed back) character$/;"	f
+getch	chapter 5/ex5-1.c	/^int getch(void)$/;"	f
+getch	chapter 5/ex5-2.c	/^int getch(void)$/;"	f
+getfloat	chapter 5/ex5-2.c	/^int getfloat(float *pf)$/;"	f
+getint	chapter 5/ex5-1.c	/^int getint(int *pn)$/;"	f
+getline1	chapter 1/ex1-17.c	/^int getline1(char s[], int lim) {$/;"	f
+getline1	chapter 1/ex1-18.c	/^int getline1(char s[], int lim) {$/;"	f
+getline1	chapter 1/ex1-19.c	/^int getline1(char s[], int lim) {$/;"	f
+getline1	chapter 2/ex2-2.c	/^int getline1(char s[], int lim) {$/;"	f
+getline1	chapter 4/ex4-1.c	/^int getline1(char s[], int lim) {$/;"	f
+getline1	chapter 4/polish4-10/getline1.c	/^int getline1(char s[], int lim) {$/;"	f
 getline1	grep4C.c	/^int getline1(char s[], int lim) {$/;"	f
 getline1	line-cp-spec.c	/^int getline1(void) {$/;"	f
 getline1	line-cp.c	/^int getline1(char s[], int lim) {$/;"	f
-getline1	polish4-10/getline1.c	/^int getline1(char s[], int lim) {$/;"	f
-getop	polish/getop.c	/^int getop(char s[]) {$/;"	f
-getop	polish4-10/getop.c	/^int getop(char s[]) {$/;"	f
-getop	polish4-11/getop.c	/^int getop(char s[]) {$/;"	f
-getop	polish_calc/getop.c	/^int getop(char s[]) {$/;"	f
-htoi	ex2-3.c	/^int htoi(char s[], unsigned int lim) {$/;"	f
-in_comment	ex1-23.c	/^void in_comment(int c) {$/;"	f
-in_comment	ex1-24.c	/^void in_comment(int c) {$/;"	f
-invert	ex2-7.c	/^int invert(unsigned x, int p, int n) {$/;"	f
-itoa	3-6.c	/^void itoa(int n, char s[], int w) {$/;"	f
-itoa	ex3-4.c	/^void itoa(int n, char s[]) {$/;"	f
+getop	chapter 4/polish/getop.c	/^int getop(char s[]) {$/;"	f
+getop	chapter 4/polish4-10/getop.c	/^int getop(char s[]) {$/;"	f
+getop	chapter 4/polish4-11/getop.c	/^int getop(char s[]) {$/;"	f
+getop	chapter 4/polish_calc/getop.c	/^int getop(char s[]) {$/;"	f
+htoi	chapter 2/ex2-3.c	/^int htoi(char s[], unsigned int lim) {$/;"	f
+in_comment	chapter 1/ex1-23.c	/^void in_comment(int c) {$/;"	f
+in_comment	chapter 1/ex1-24.c	/^void in_comment(int c) {$/;"	f
+invert	chapter 2/ex2-7.c	/^int invert(unsigned x, int p, int n) {$/;"	f
+itoa	chapter 3/3-6.c	/^void itoa(int n, char s[], int w) {$/;"	f
+itoa	chapter 3/ex3-4.c	/^void itoa(int n, char s[]) {$/;"	f
 itoa	itoa.c	/^void itoa(int n, char s[]) {$/;"	f
-itob	3-5.c	/^void itob(int n, char s[], int b) {$/;"	f
-li	polish4-10/getop.c	/^int li = 0;					\/\/ input line index $/;"	v
-line	ex1-22.c	/^char line[MAXCOL];$/;"	v
+itob	chapter 3/3-5.c	/^void itob(int n, char s[], int b) {$/;"	f
+li	chapter 4/polish4-10/getop.c	/^int li = 0;					\/\/ input line index $/;"	v
+line	chapter 1/ex1-22.c	/^char line[MAXCOL];$/;"	v
+line	chapter 4/polish4-10/getop.c	/^char line[MAXLINE];			\/\/ one input line$/;"	v
 line	line-cp-spec.c	/^char line[MAXLINE]; \/* current input line *\/$/;"	v
-line	polish4-10/getop.c	/^char line[MAXLINE];			\/\/ one input line$/;"	v
 longest	line-cp-spec.c	/^char longest[MAXLINE]; \/* longest line saved here *\/$/;"	v
-loop	ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	g	file:
-lower	ex2-10.c	/^int lower(int c) {$/;"	f
-main	3-5.c	/^int main() {$/;"	f
-main	3-6.c	/^int main() {$/;"	f
+loop	chapter 2/ex2-2.c	/^typedef enum loop { NO, YES } flag;$/;"	g	file:
+lower	chapter 2/ex2-10.c	/^int lower(int c) {$/;"	f
 main	atof4.c	/^int main() {$/;"	f
 main	atof4C.c	/^int main() {$/;"	f
-main	ex1-13.c	/^main() {$/;"	f
-main	ex1-14.c	/^main() {$/;"	f
-main	ex1-17.c	/^int main() {$/;"	f
-main	ex1-18.c	/^main() {$/;"	f
-main	ex1-19.c	/^main() {$/;"	f
-main	ex1-20.c	/^int main(void) {$/;"	f
-main	ex1-21.c	/^int main() {$/;"	f
-main	ex1-22.c	/^int main() {$/;"	f
-main	ex1-23.c	/^int main() {$/;"	f
-main	ex1-24.c	/^int main() {$/;"	f
-main	ex2-1.c	/^int main() {$/;"	f
-main	ex2-10.c	/^int main() {$/;"	f
-main	ex2-4.c	/^int main() {$/;"	f
-main	ex2-5.c	/^int main() {$/;"	f
-main	ex2-6.c	/^int main() {$/;"	f
-main	ex2-7.c	/^int main() {$/;"	f
-main	ex2-8.c	/^int main() {$/;"	f
-main	ex2-9.c	/^int main() {$/;"	f
-main	ex3-1.c	/^int main() {$/;"	f
-main	ex3-2.c	/^int main() {$/;"	f
-main	ex3-4.c	/^int main() {$/;"	f
-main	ex4-1.c	/^int main() {$/;"	f
-main	ex4-14.c	/^int main() {$/;"	f
-main	ex4-2.c	/^int main() {$/;"	f
+main	chapter 1/ex1-13.c	/^main() {$/;"	f
+main	chapter 1/ex1-14.c	/^main() {$/;"	f
+main	chapter 1/ex1-17.c	/^int main() {$/;"	f
+main	chapter 1/ex1-18.c	/^main() {$/;"	f
+main	chapter 1/ex1-19.c	/^main() {$/;"	f
+main	chapter 1/ex1-20.c	/^int main(void) {$/;"	f
+main	chapter 1/ex1-21.c	/^int main() {$/;"	f
+main	chapter 1/ex1-22.c	/^int main() {$/;"	f
+main	chapter 1/ex1-23.c	/^int main() {$/;"	f
+main	chapter 1/ex1-24.c	/^int main() {$/;"	f
+main	chapter 2/ex2-1.c	/^int main() {$/;"	f
+main	chapter 2/ex2-10.c	/^int main() {$/;"	f
+main	chapter 2/ex2-4.c	/^int main() {$/;"	f
+main	chapter 2/ex2-5.c	/^int main() {$/;"	f
+main	chapter 2/ex2-6.c	/^int main() {$/;"	f
+main	chapter 2/ex2-7.c	/^int main() {$/;"	f
+main	chapter 2/ex2-8.c	/^int main() {$/;"	f
+main	chapter 2/ex2-9.c	/^int main() {$/;"	f
+main	chapter 3/3-5.c	/^int main() {$/;"	f
+main	chapter 3/3-6.c	/^int main() {$/;"	f
+main	chapter 3/ex3-1.c	/^int main() {$/;"	f
+main	chapter 3/ex3-2.c	/^int main() {$/;"	f
+main	chapter 3/ex3-4.c	/^int main() {$/;"	f
+main	chapter 4/ex4-1.c	/^int main() {$/;"	f
+main	chapter 4/ex4-14.c	/^int main() {$/;"	f
+main	chapter 4/ex4-2.c	/^int main() {$/;"	f
+main	chapter 4/polish/main.c	/^main() {$/;"	f
+main	chapter 4/polish/test.c	/^int main() {$/;"	f
+main	chapter 4/polish4-10/main.c	/^main() {$/;"	f
+main	chapter 4/polish4-11/main.c	/^main() {$/;"	f
+main	chapter 4/polish_calc/main.c	/^main() {$/;"	f
+main	chapter 5/ex5-2.c	/^int main() {$/;"	f
 main	getbits.c	/^int main() {$/;"	f
 main	grep4C.c	/^main() {$/;"	f
 main	itoa.c	/^int main() {$/;"	f
 main	line-cp-spec.c	/^main() {$/;"	f
 main	line-cp.c	/^int main() {$/;"	f
 main	main.c	/^main() {$/;"	f
-main	polish/main.c	/^main() {$/;"	f
-main	polish/test.c	/^int main() {$/;"	f
-main	polish4-10/main.c	/^main() {$/;"	f
-main	polish4-11/main.c	/^main() {$/;"	f
-main	polish_calc/main.c	/^main() {$/;"	f
 main	printd4C.c	/^int main() {$/;"	f
 main	qsort.c	/^int main() {$/;"	f
 main	rand_exp.c	/^int main() {$/;"	f
 main	shellsort.c	/^int main() {$/;"	f
-mathfunc	polish/main.c	/^void mathfunc(char s[]) {$/;"	f
-mathfunc	polish4-10/main.c	/^void mathfunc(char s[]) {$/;"	f
-mathfunc	polish4-11/main.c	/^void mathfunc(char s[]) {$/;"	f
+mathfunc	chapter 4/polish/main.c	/^void mathfunc(char s[]) {$/;"	f
+mathfunc	chapter 4/polish4-10/main.c	/^void mathfunc(char s[]) {$/;"	f
+mathfunc	chapter 4/polish4-11/main.c	/^void mathfunc(char s[]) {$/;"	f
 max	line-cp-spec.c	/^int max; \/* maximum length seen so far *\/$/;"	v
-newpos	ex1-22.c	/^int newpos(int pos) {$/;"	f
+newpos	chapter 1/ex1-22.c	/^int newpos(int pos) {$/;"	f
 next	rand_exp.c	/^unsigned long int next = 1;$/;"	v
-paren	ex1-24.c	/^int brace, brack, paren;$/;"	v
-pattern	ex4-1.c	/^char pattern[] = "ould";$/;"	v
+paren	chapter 1/ex1-24.c	/^int brace, brack, paren;$/;"	v
+pattern	chapter 4/ex4-1.c	/^char pattern[] = "ould";$/;"	v
 pattern	grep4C.c	/^char pattern[] = "ould"; \/\/ pattern to search for$/;"	v
-pop	polish/stack.c	/^double pop(void) {$/;"	f
-pop	polish4-10/stack.c	/^double pop(void) {$/;"	f
-pop	polish4-11/stack.c	/^double pop(void) {$/;"	f
-pop	polish_calc/stack.c	/^double pop(void) {$/;"	f
+pop	chapter 4/polish/stack.c	/^double pop(void) {$/;"	f
+pop	chapter 4/polish4-10/stack.c	/^double pop(void) {$/;"	f
+pop	chapter 4/polish4-11/stack.c	/^double pop(void) {$/;"	f
+pop	chapter 4/polish_calc/stack.c	/^double pop(void) {$/;"	f
 pop	push_pop.c	/^double pop(void) {$/;"	f
 printArr	qsort.c	3;"	d	file:
 print_array	shellsort.c	/^void print_array(int v[], int n) {$/;"	f
 printd	printd4C.c	/^void printd(int n) {$/;"	f
-printl	ex1-22.c	/^void printl(int pos) {$/;"	f
-push	polish/stack.c	/^void push(double f) {$/;"	f
-push	polish4-10/stack.c	/^void push(double f) {$/;"	f
-push	polish4-11/stack.c	/^void push(double f) {$/;"	f
-push	polish_calc/stack.c	/^void push(double f) {$/;"	f
+printl	chapter 1/ex1-22.c	/^void printl(int pos) {$/;"	f
+push	chapter 4/polish/stack.c	/^void push(double f) {$/;"	f
+push	chapter 4/polish4-10/stack.c	/^void push(double f) {$/;"	f
+push	chapter 4/polish4-11/stack.c	/^void push(double f) {$/;"	f
+push	chapter 4/polish_calc/stack.c	/^void push(double f) {$/;"	f
 push	push_pop.c	/^void push(double f) {$/;"	f
 qsort	qsort.c	/^void qsort(int v[], int left, int right) {$/;"	f
 rand	rand_exp.c	/^int rand(void) {$/;"	f
-rcomment	ex1-23.c	/^void rcomment(int c) {$/;"	f
-remove1	ex1-18.c	/^int remove1(char s[]) {$/;"	f
-reverse	3-5.c	/^void reverse(char s[]) {$/;"	f
-reverse	3-6.c	/^void reverse(char s[]) {$/;"	f
-reverse	ex1-19.c	/^void reverse(char s[]) {$/;"	f
-reverse	ex3-4.c	/^void reverse(char s[]) {$/;"	f
+rcomment	chapter 1/ex1-23.c	/^void rcomment(int c) {$/;"	f
+remove1	chapter 1/ex1-18.c	/^int remove1(char s[]) {$/;"	f
+reverse	chapter 1/ex1-19.c	/^void reverse(char s[]) {$/;"	f
+reverse	chapter 3/3-5.c	/^void reverse(char s[]) {$/;"	f
+reverse	chapter 3/3-6.c	/^void reverse(char s[]) {$/;"	f
+reverse	chapter 3/ex3-4.c	/^void reverse(char s[]) {$/;"	f
 reverse	itoa.c	/^void reverse(char s[]) {$/;"	f
-rightrot	ex2-8.c	/^int rightrot(unsigned x, int n) {$/;"	f
-search	ex1-24.c	/^void search(int c) {$/;"	f
-setbits	ex2-6.c	/^int setbits(unsigned x, int p, int n, unsigned y) {$/;"	f
+rightrot	chapter 2/ex2-8.c	/^int rightrot(unsigned x, int n) {$/;"	f
+search	chapter 1/ex1-24.c	/^void search(int c) {$/;"	f
+setbits	chapter 2/ex2-6.c	/^int setbits(unsigned x, int p, int n, unsigned y) {$/;"	f
 shellsort	shellsort.c	/^void shellsort(int v[], int n) {$/;"	f
-slow_binarysearch	ex3-1.c	/^int slow_binarysearch(int x, int v[], int n) {$/;"	f
-sp	polish/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
-sp	polish4-10/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
-sp	polish4-11/stack.c	/^static int sp = 0; 			\/\/ next free stack position$/;"	v	file:
-sp	polish_calc/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
+slow_binarysearch	chapter 3/ex3-1.c	/^int slow_binarysearch(int x, int v[], int n) {$/;"	f
+sp	chapter 4/polish/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
+sp	chapter 4/polish4-10/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
+sp	chapter 4/polish4-11/stack.c	/^static int sp = 0; 			\/\/ next free stack position$/;"	v	file:
+sp	chapter 4/polish_calc/stack.c	/^int sp = 0; 			\/\/ next free stack position$/;"	v
 sp	push_pop.c	/^int sp = 0; 		\/\/ next free stack position$/;"	v
-squeeze	ex2-4.c	/^void squeeze(char s1[], char s2[]) {$/;"	f
+squeeze	chapter 2/ex2-4.c	/^void squeeze(char s1[], char s2[]) {$/;"	f
 srand	rand_exp.c	/^void srand(unsigned int seed) {$/;"	f
-store_char	polish/getop.c	/^int store_char(char s[], int i, int c) {$/;"	f
-store_char	polish4-11/getop.c	/^int store_char(char s[], int i, int c) {$/;"	f
+store_char	chapter 4/polish/getop.c	/^int store_char(char s[], int i, int c) {$/;"	f
+store_char	chapter 4/polish4-11/getop.c	/^int store_char(char s[], int i, int c) {$/;"	f
 strindex	grep4C.c	/^int strindex(char s[], char t[]) {$/;"	f
-strrindex	ex4-1.c	/^int strrindex(char s[], char t[]) {$/;"	f
-swap	ex4-14.c	4;"	d	file:
+strrindex	chapter 4/ex4-1.c	/^int strrindex(char s[], char t[]) {$/;"	f
+swap	chapter 4/ex4-14.c	4;"	d	file:
 swap	qsort.c	/^void swap(int v[], int a, int b) {$/;"	f
-tosymb	3-5.c	7;"	d	file:
-unescape	ex3-2.c	/^void unescape(char s[], char t[]) {$/;"	f
-ungetch	polish/getch.c	/^void ungetch(int c) {	\/\/ push character back on input$/;"	f
-ungetch	polish/getch4-8.c	/^void ungetch(int c) {$/;"	f
-ungetch	polish4-11/getch4-8.c	/^void ungetch(int c) {$/;"	f
-ungetch	polish_calc/getch.c	/^void ungetch(int c) {	\/\/ push character back on input$/;"	f
-ungets	polish/getch.c	/^void ungets(char s[]) {$/;"	f
-ungets	polish4-11/getch.c	/^void ungets(char s[]) {$/;"	f
-val	polish/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
-val	polish4-10/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
-val	polish4-11/stack.c	/^static double val[MAXVAL];		\/\/ value stack$/;"	v	file:
-val	polish_calc/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
+tosymb	chapter 3/3-5.c	7;"	d	file:
+unescape	chapter 3/ex3-2.c	/^void unescape(char s[], char t[]) {$/;"	f
+ungetch	chapter 4/polish/getch.c	/^void ungetch(int c) {	\/\/ push character back on input$/;"	f
+ungetch	chapter 4/polish/getch4-8.c	/^void ungetch(int c) {$/;"	f
+ungetch	chapter 4/polish4-11/getch4-8.c	/^void ungetch(int c) {$/;"	f
+ungetch	chapter 4/polish_calc/getch.c	/^void ungetch(int c) {	\/\/ push character back on input$/;"	f
+ungetch	chapter 5/ex5-1.c	/^void ungetch(int c)$/;"	f
+ungetch	chapter 5/ex5-2.c	/^void ungetch(int c)$/;"	f
+ungets	chapter 4/polish/getch.c	/^void ungets(char s[]) {$/;"	f
+ungets	chapter 4/polish4-11/getch.c	/^void ungets(char s[]) {$/;"	f
+val	chapter 4/polish/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
+val	chapter 4/polish4-10/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
+val	chapter 4/polish4-11/stack.c	/^static double val[MAXVAL];		\/\/ value stack$/;"	v	file:
+val	chapter 4/polish_calc/stack.c	/^double val[MAXVAL];		\/\/ value stack$/;"	v
 val	push_pop.c	/^double val[MAXVAL];	\/\/ value stack$/;"	v
-wordlength	ex2-8.c	/^int wordlength(void) {$/;"	f
+wordlength	chapter 2/ex2-8.c	/^int wordlength(void) {$/;"	f
